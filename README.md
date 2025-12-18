@@ -16,7 +16,7 @@ Users can add, view, edit, and delete equipment records.
 **Database**
 - JSON file (equipment.json)
 
-## ✨ Features
+# ✨ Features
 
 - View equipment list in table format
 - Add new equipment
@@ -25,7 +25,7 @@ Users can add, view, edit, and delete equipment records.
 - REST API integration
 - Basic form validation
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 equipment-tracker  
 ├── backend  
@@ -42,26 +42,24 @@ equipment-tracker
 │   │   ├── index.js  
 │   ├── package.json  
 
----
 
 ## ▶️ How to Run the Project Locally
 
 ### 1️⃣ Run Backend
-```bash
+
 cd backend
 npm install
 node server.js
 Backend will run on: http://localhost:5000
 
-2️⃣ Run Frontend
+### 2️⃣ Run Frontend
 cd frontend
 npm install
 npm start
-
-
 Frontend will run on: http://localhost:3000
 
-📌 Assumptions
+
+### 📌 Assumptions
 
 Used JSON file instead of a database for simplicity
 
@@ -69,7 +67,7 @@ No authentication required
 
 Single-user usage
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 Add search and filter functionality
 
@@ -81,6 +79,6 @@ Improve UI styling
 
 Add pagination
 
-👤 Author
+### 👤 Author
 
 Developed by Ankita Shrivastav
