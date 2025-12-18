@@ -61,23 +61,23 @@ Frontend will run on: http://localhost:3000
 
 ### 📌 Assumptions
 
-Used JSON file instead of a database for simplicity
+- Used JSON file instead of a database for simplicity
 
-No authentication required
+- No authentication required
 
-Single-user usage
+- Single-user usage
 
 ### 🚀 Future Improvements
 
-Add search and filter functionality
+- Add search and filter functionality
 
-Add sorting
+- Add sorting
 
-Connect to a real database (MongoDB)
+- Connect to a real database (MongoDB)
 
-Improve UI styling
+- Improve UI styling
 
-Add pagination
+- Add pagination
 
 ### 👤 Author
 
